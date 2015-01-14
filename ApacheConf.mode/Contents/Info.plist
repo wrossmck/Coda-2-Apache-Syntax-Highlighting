@@ -7,11 +7,11 @@
 	<key>CFBundleName</key>
 	<string>Apache</string>
     <key>CFBundleShortVersionString</key>
-	<string>1.1</string>
+	<string>1.2</string>
 	<key>CFBundleVersion</key>
-	<string>1.1</string>
+	<string>1.2</string>
     <key>CFBundleGetInfoString</key>
-	<string>1.1, Copyright Ross McKinley, 2015</string>
+	<string>1.2, Copyright Ross McKinley, 2015</string>
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
 	<key>CFBundleInfoDictionaryVersion</key>
